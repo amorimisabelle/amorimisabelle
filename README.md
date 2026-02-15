@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World,+I´m+Isabelle+Bernardes!;I´m+a+Full+Stack+Developer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)<br>
- 💻 Full Stack Developer specialized in ecommerce performance using Javascript/Typescript + Node.js<br> ![wave](https://github.com/user-attachments/assets/49a46d19-a30f-412d-b491-c6ee0b80c907)
+ 💻 Full Stack Developer specialized in ecommerce performance using Javascript/Typescript + Node.js<br> <span style="width: 48px;">![wave](https://github.com/user-attachments/assets/49a46d19-a30f-412d-b491-c6ee0b80c907)
 
 
 
