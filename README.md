@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World,+I´m+Isabelle+Bernardes!;I´m+a+Full+Stack+Developer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)<br>
- 💻 Full Stack Developer specialized in ecommerce performance using Javascript/Typescript + Node.js  <img src="[gif](https://github.com/user-attachments/assets/49a46d19-a30f-412d-b491-c6ee0b80c907)" width="30px"><br>
+ 💻 Full Stack Developer specialized in ecommerce performance using Javascript/Typescript + Node.js  <img src="[gif](https://github.com/user-attachments/assets/49a46d19-a30f-412d-b491-c6ee0b80c907)" width="30"><br>
 
 
 
 
-SKILLS  <img src="[code gif](https://github.com/user-attachments/assets/fccecf14-b9ba-47cb-85b8-029b07012c35)" width="30px">
+SKILLS  <img src="[https://github.com/user-attachments/assets/fccecf14-b9ba-47cb-85b8-029b07012c35](https://github.com/user-attachments/assets/fccecf14-b9ba-47cb-85b8-029b07012c35)" width="30">
 <div> <br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Isa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
