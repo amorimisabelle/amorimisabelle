@@ -13,9 +13,8 @@ SKILLS  <img width="30" src="[https://github.com/user-attachments/assets/fccecf1
   <img align="center" alt="Isa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-  ##
-
 SOCIAL MEDIA <img width="30" src="[https://github.com/user-attachments/assets/fccecf14-b9ba-47cb-85b8-029b07012c35](https://github.com/user-attachments/assets/fccecf14-b9ba-47cb-85b8-029b07012c35)">
+##
 <div><br>
   <a href="https://instagram.com/fritzisabelle" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:isabelle.bernardes2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
