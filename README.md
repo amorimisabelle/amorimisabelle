@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World,+I´m+Isabelle+Bernardes!;I´m+a+Full+Stack+Developer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)<br>
- 💻 Full Stack Developer specialized in ecommerce performance using Javascript/Typescript + Node.js  <img src="[gif](https://github.com/user-attachments/assets/49a46d19-a30f-412d-b491-c6ee0b80c907)" width="30"><br>
+💻 Full Stack Developer specialized in ecommerce performance using Javascript/Typescript + Node.js<br>
 
 SKILLS  <img width="30" src="[https://github.com/user-attachments/assets/fccecf14-b9ba-47cb-85b8-029b07012c35](https://github.com/user-attachments/assets/fccecf14-b9ba-47cb-85b8-029b07012c35)">
 
@@ -11,7 +11,7 @@ SKILLS  <img width="30" src="[https://github.com/user-attachments/assets/fccecf1
   <img align="center" alt="Isa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Isa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Isa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+</div><br><br>
 
 SOCIAL MEDIA <img width="30" src="[https://github.com/user-attachments/assets/fccecf14-b9ba-47cb-85b8-029b07012c35](https://github.com/user-attachments/assets/fccecf14-b9ba-47cb-85b8-029b07012c35)">
 ##
